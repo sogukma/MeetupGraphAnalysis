@@ -1,7 +1,8 @@
-,id,name,event_url,group_id,group_urlname
-0,tjqfqpyxhbsb,Build an IoT low power geo tracker prototype with  open source,https://www.meetup.com/Code4Fun/events/250094212/,28264920,Code4Fun
-1,253946015,"Infra As Code Terraform Hands On Workshop, Deploy a scalable Web Infrastructure",https://www.meetup.com/Code4Fun/events/253946015/,28264920,Code4Fun
-2,256381234,(GENEVA) Write your first smart contract on HyperLedger Fabric,https://www.meetup.com/Code4Fun/events/256381234/,28264920,Code4Fun
-3,257338180,(ZURICH) Write your first smart contract on HyperLedger Fabric,https://www.meetup.com/Code4Fun/events/257338180/,28264920,Code4Fun
-4,259956761,(ZURICH) GraalVM hands-on with Thomas Wuerthinger,https://www.meetup.com/Code4Fun/events/259956761/,28264920,Code4Fun
-5,259794926,Data Lineage w. Graph DBs / From active DBs to NoSQL,https://www.meetup.com/Swiss-Data-Circle/events/259794926/,31154587,Swiss-Data-Circle
+,id,name,event_url,rsvp_limit,yes_rsvp_count,time,city,address,group_id,group_urlname
+0,tjqfqpyxhbsb,Build an IoT low power geo tracker prototype with  open source,https://www.meetup.com/Code4Fun/events/250094212/,25,20,1526311800000,8005 Zurich, Hardstrasse 201,28264920,Code4Fun
+1,253946015,"Infra As Code Terraform Hands On Workshop, Deploy a scalable Web Infrastructure",https://www.meetup.com/Code4Fun/events/253946015/,24,15,1537371000000,8005 Zurich, Hardstrasse 201,28264920,Code4Fun
+2,256381234,(GENEVA) Write your first smart contract on HyperLedger Fabric,https://www.meetup.com/Code4Fun/events/256381234/,40,34,1544117400000,Genève,Route de Pré-Bois 29,28264920,Code4Fun
+3,257338180,(ZURICH) Write your first smart contract on HyperLedger Fabric,https://www.meetup.com/Code4Fun/events/257338180/,35,26,1548779400000,8005 Zurich, Hardstrasse 201,28264920,Code4Fun
+4,259956761,(ZURICH) GraalVM hands-on with Thomas Wuerthinger,https://www.meetup.com/Code4Fun/events/259956761/,35,33,1555428600000,8005 Zurich, Hardstrasse 201,28264920,Code4Fun
+5,259794926,Data Lineage w. Graph DBs / From active DBs to NoSQL,https://www.meetup.com/Swiss-Data-Circle/events/259794926/,60,23,1557243900000,Zürich,Hardstrasse 201,31154587,Swiss-Data-Circle
+6,262092171,"(ZURICH) Get started with Rust, Stack Overflow's most loved language",https://www.meetup.com/Code4Fun/events/262092171/,40,27,1560873600000,8005 Zurich, Hardstrasse 201,28264920,Code4Fun

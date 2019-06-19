@@ -1,133 +1,126 @@
-,id,name,event_url,group_id,group_urlname
-0,261478748,Angular performance tuning,https://www.meetup.com/AngularZRH/events/261478748/,12710702,AngularZRH
-1,261672048, FIFTH Meetup: Re-starting Crypto Hardware meetup after the Bear Market,https://www.meetup.com/Crypto-Hardware-Switzerland/events/261672048/,24978606,Crypto-Hardware-Switzerland
-2,261955857,Blockchain Innovation in Life Science,https://www.meetup.com/Crypto-World-Zug/events/261955857/,27879127,Crypto-World-Zug
-3,262133150,The Sacred Loft #3 - Grounding in your embodied Self,https://www.meetup.com/Consciousness-Hacking-Zurich/events/262133150/,24988582,Consciousness-Hacking-Zurich
-4,262000217,The Sweet Sound of Success | The most effective tactics to sell,https://www.meetup.com/CV-Labs-Switzerland/events/262000217/,27342970,CV-Labs-Switzerland
-5,261542921,Research Skills Workshop,https://www.meetup.com/zurich-ux-research-guild/events/261542921/,31912928,zurich-ux-research-guild
-6,261553732,HUG #4: Terraform and Azure ,https://www.meetup.com/Zurich-HashiCorp-User-Group/events/261553732/,29587643,Zurich-HashiCorp-User-Group
-7,261668081,Y7K x Elizabeth Immer & Klaus Heyden - Better products with behavioral economics,https://www.meetup.com/Y7K-Bistro/events/261668081/,31210267,Y7K-Bistro
-8,262089770,Guest: Robert Sabourin - Reality-Driven Testing in Agile Projects,https://www.meetup.com/Meetup-of-Test/events/262089770/,18519439,Meetup-of-Test
-9,chdcwqyzjbrb,WTM & GDG Stammtisch,https://www.meetup.com/wtm-switzerland/events/261667824/,26051944,wtm-switzerland
-10,vxmqlqyzjbrb,Swiss LLVM Compiler and Code Generation Social,https://www.meetup.com/llvm-compiler-and-code-generation-socials-zurich/events/262134387/,23968433,llvm-compiler-and-code-generation-socials-zurich
-11,259098186,Intro to Julia (talk + hands-on),https://www.meetup.com/Zurich-Julia-User-Group/events/259098186/,14427712,Zurich-Julia-User-Group
-12,261762527,Ionic & StencilJS - Test and discuss DeckDeckGo (world premiere 😉),https://www.meetup.com/Ionic-Zurich/events/261762527/,26679845,Ionic-Zurich
-13,kckcwqyzjbrb,GDG & WTM Stammtisch,https://www.meetup.com/GDG-Zurich/events/260562516/,11090922,GDG-Zurich
-14,smdvsqyzjbrb,How to successfully build and develop a company - with and without blockchain,https://www.meetup.com/Crypto-Valley-Entrepreneurs/events/262039358/,27132126,Crypto-Valley-Entrepreneurs
-15,262000253,Tell your bad news first,https://www.meetup.com/CV-Labs-Switzerland/events/262000253/,27342970,CV-Labs-Switzerland
-16,261756552,ML Beginners Track : Coding Workshop,https://www.meetup.com/School-of-AI-Zurich/events/261756552/,29942974,School-of-AI-Zurich
-17,qcddnqyzjbsb,"Wine & Vision - inapay, how to accept Bitcoin in your business! ",https://www.meetup.com/CV-Labs-Switzerland/events/260503005/,27342970,CV-Labs-Switzerland
-18,261807303,From Mess to Meaning: Liberating Strategic Planning in Complex Contexts,https://www.meetup.com/Liberating-Structures-User-Group-Schweiz/events/261807303/,24329787,Liberating-Structures-User-Group-Schweiz
-19,261798794,Oyoba Community Meetup #1,https://www.meetup.com/Oyoba-building-the-future-of-banking-together/events/261798794/,31270353,Oyoba-building-the-future-of-banking-together
-20,261808829,AWS and HashiCorp Terraform - better together,https://www.meetup.com/AWS-Swiss-User-Group-Zurich/events/261808829/,20317194,AWS-Swiss-User-Group-Zurich
-21,262193834,How to Benefit as a Startup from Business Failures | Open-mic FuckUp Night ,https://www.meetup.com/CV-Labs-Switzerland/events/262193834/,27342970,CV-Labs-Switzerland
-22,vrnxvqyzjbwb,The RubyMonstas Summer BBQ!,https://www.meetup.com/RubyMonstas-Programming-for-Women/events/261786393/,19739877,RubyMonstas-Programming-for-Women
-23,262122041,Social Perl,https://www.meetup.com/Swiss-Perl-Community-Meetup/events/262122041/,14243062,Swiss-Perl-Community-Meetup
-24,258787674,SAP Customer Experience Day,https://www.meetup.com/SAP-Customer-Experience-Switzerland/events/258787674/,31056273,SAP-Customer-Experience-Switzerland
-25,261736594,Drupal Roundtable June 2019,https://www.meetup.com/Zurich-Drupal-Meetup/events/261736594/,18512629,Zurich-Drupal-Meetup
-26,261655462,Cryptotreff - Afterwork in USTER - Juni 2019,https://www.meetup.com/cryptowelt/events/261655462/,25868301,cryptowelt
-27,262092171,"(ZURICH) Get started with Rust, Stack Overflow's most loved language",https://www.meetup.com/Code4Fun/events/262092171/,28264920,Code4Fun
-28,261253026,Mini-AnalyticsCamp Zurich @ Liip,https://www.meetup.com/analyticscampch/events/261253026/,23242196,analyticscampch
-29,262092231,The #DeFi investment case,https://www.meetup.com/meetup-group-MxIAcYAu/events/262092231/,27090394,meetup-group-MxIAcYAu
-30,261999281,"SLTA LegalTech Circle presenting Skribble, a LegalTech Company.",https://www.meetup.com/Zurich-Legal-Tech-Meetup/events/261999281/,19491054,Zurich-Legal-Tech-Meetup
-31,260883515,Modern and serverless web applications with GraphQL,https://www.meetup.com/Pantalks-tech-non-tech-talks-Panter-AG-Zurich/events/260883515/,6569732,Pantalks-tech-non-tech-talks-Panter-AG-Zurich
-32,261804396,AI reinforcement learning & analytical data mgmt with R,https://www.meetup.com/Zurich-R-User-Group/events/261804396/,19133459,Zurich-R-User-Group
-33,261956820,TensorFlow 2.0 — What's New & Cell Phenotyping with Python,https://www.meetup.com/PyData-Zurich/events/261956820/,20358742,PyData-Zurich
-34,frtjxqyzjbxb,"Practice your programming skills with Python, Javascript, Java, C(++) or ...",https://www.meetup.com/opentechschool-zurich/events/261844748/,8170522,opentechschool-zurich
-35,gvsjxqyzjbxb,"Learn programming with Python, Java, Javascript, C(++) or ...",https://www.meetup.com/opentechschool-zurich/events/261859787/,8170522,opentechschool-zurich
-36,262218394,PyData Zürich: TensorFlow 2.0 — What's New & Cell Phenotyping with Python,https://www.meetup.com/Big-Data-Developers-Switzerland/events/262218394/,10220112,Big-Data-Developers-Switzerland
-37,262218416,PyData Meetup Zürich: TensorFlow 2.0 — What's New & Cell Phenotyping with Python,https://www.meetup.com/SwissLifeScience/events/262218416/,18721751,SwissLifeScience
-38,261010436,First Swiss CSA chapter event - Zürich Area,https://www.meetup.com/Cloud-Security-Alliance-CSA-Chapter/events/261010436/,31761969,Cloud-Security-Alliance-CSA-Chapter
-39,261863683,3rd Robotics and ROS in Zurich Meetup,https://www.meetup.com/Robotics-and-ROS-in-Zurich/events/261863683/,31303696,Robotics-and-ROS-in-Zurich
-40,262249398,Bitcoin Meetup Zürich,https://www.meetup.com/Bitcoin-Meetup-Switzerland/events/262249398/,8278642,Bitcoin-Meetup-Switzerland
-41,262062817,Crafty Discussions Session 4 - Zurich,https://www.meetup.com/Software-Artisans/events/262062817/,32010407,Software-Artisans
-42,258384690,"Developer UnConference Zürich, Switzerland",https://www.meetup.com/Big-Data-Developers-Switzerland/events/258384690/,10220112,Big-Data-Developers-Switzerland
-43,261416670,Big Data MeetUp,https://www.meetup.com/Big-Data-Developers-Switzerland/events/261416670/,10220112,Big-Data-Developers-Switzerland
-44,261757869,Web Zürich June,https://www.meetup.com/Web-Zurich/events/261757869/,19998223,Web-Zurich
-45,261589953,Rethinking agility,https://www.meetup.com/DevOps-Meetup-Zurich/events/261589953/,19506753,DevOps-Meetup-Zurich
-46,259789564,13th Power BI User Group Meetup,https://www.meetup.com/Power-BI-User-Group-Switzerland/events/259789564/,19234236,Power-BI-User-Group-Switzerland
-47,261696009,Test in the Pub - A Mix of Topics,https://www.meetup.com/Meetup-of-Test/events/261696009/,18519439,Meetup-of-Test
-48,261506101,UX ROI Zürich ,https://www.meetup.com/UX-ROI-Zurich/events/261506101/,31900931,UX-ROI-Zurich
-49,260110333,Summer time is SaltStack time!,https://www.meetup.com/Zurich-SaltStack/events/260110333/,18689551,Zurich-SaltStack
-50,262112083,how to increase your agile leadership skills *free of cost*,https://www.meetup.com/agile-Mindset-Zurich/events/262112083/,30490660,agile-Mindset-Zurich
-51,xstdzqyzjbbc,Unreal Engine Schweiz Meetup ,https://www.meetup.com/Unreal-Engine-Schweiz/events/261504370/,21498984,Unreal-Engine-Schweiz
-52,261894681,Zürich Blockchain Open Coffee Vol. VI,https://www.meetup.com/Zurich-Blockchain-Open-Coffee/events/261894681/,31219627,Zurich-Blockchain-Open-Coffee
-53,260240085,Swiss Blockchain Hackathon,https://www.meetup.com/Trust-Square-Blockchain-Swiss-Made/events/260240085/,28411105,Trust-Square-Blockchain-Swiss-Made
-54,261780281,CoderDojo Summer Finale 2019 & Cyber Protection Challenge,https://www.meetup.com/Coder-Dojo-Zurich/events/261780281/,13186902,Coder-Dojo-Zurich
-55,260442996,Andreas M. Antonopoulos: Thoughts on The Future of Programmable Money.,https://www.meetup.com/Bitcoin-Meetup-Switzerland/events/260442996/,8278642,Bitcoin-Meetup-Switzerland
-56,261510547,6th Swiss Oracle Cloud Community Meeting,https://www.meetup.com/Swiss-Oracle-Cloud-Community/events/261510547/,28518699,Swiss-Oracle-Cloud-Community
-57,261258875,Cool Kids On The Blockchain - Startup Party | part of Crypto Valley Week,https://www.meetup.com/CV-Labs-Switzerland/events/261258875/,27342970,CV-Labs-Switzerland
-58,260730560,AI mornings: Unlocking Value from Customer Conversations with Speech-to-Meaning,https://www.meetup.com/Pantalks-tech-non-tech-talks-Panter-AG-Zurich/events/260730560/,6569732,Pantalks-tech-non-tech-talks-Panter-AG-Zurich
-59,257098233,ICT Solution Day Schweiz 2019,https://www.meetup.com/ICT-Schweiz/events/257098233/,25127930,ICT-Schweiz
-60,261928709,#MeetAmbitorio - Ambitorio Open Door Day,https://www.meetup.com/Friends-of-Ambitorio/events/261928709/,21870494,Friends-of-Ambitorio
-61,261927228,Transforming healthcare with AI,https://www.meetup.com/Deep-Learning-Zurich-DLZH/events/261927228/,31150209,Deep-Learning-Zurich-DLZH
-62,ssbdfqyzjbkc,Lean Change Management Meetup,https://www.meetup.com/Zurich-Lean-Change-Management-Meetup/events/258755096/,22191076,Zurich-Lean-Change-Management-Meetup
-63,gvsjxqyzjbhc,"Learn programming with Python, Java, Javascript, C(++) or ...",https://www.meetup.com/opentechschool-zurich/events/260964804/,8170522,opentechschool-zurich
-64,262058196,Blockchain inside: Regulatory & legal work from insiders - a 100 % insider panel,https://www.meetup.com/CV-Labs-Switzerland/events/262058196/,27342970,CV-Labs-Switzerland
-65,261505092,Data from the Edge to AI,https://www.meetup.com/futureofdata-zurich/events/261505092/,28528700,futureofdata-zurich
-66,262034210,Business Agility: warum? und wie?,https://www.meetup.com/Zurich-Business-Agility-Meetup/events/262034210/,27133049,Zurich-Business-Agility-Meetup
-67,261315229,Product Management Night Zurich #2 @Swisscom,https://www.meetup.com/Zurich-Product-Management/events/261315229/,19826296,Zurich-Product-Management
-68,261616660,Machine Learning and Software Architecture - Building scalable predictors,https://www.meetup.com/Software-Architecture-and-Project-Design-Zurich/events/261616660/,30425212,Software-Architecture-and-Project-Design-Zurich
-69,261996484,SOAI / Google Cloud Study Jam,https://www.meetup.com/School-of-AI-Zurich/events/261996484/,29942974,School-of-AI-Zurich
-70,262225424,GigBuzz #8: Exbeertise,https://www.meetup.com/GigBuzz-Zurich/events/262225424/,28258734,GigBuzz-Zurich
-71,ffpfsqyzjbjc,Investing in Digital Assets 🥂,https://www.meetup.com/CryptoSummit/events/261233068/,25405406,CryptoSummit
-72,cqqsxqyzjbjc,Investing in Digital Assets 🥂,https://www.meetup.com/SMART-VALOR/events/258789014/,27701779,SMART-VALOR
-73,262060694,Next Business Process Management & Automation meetup in Switzerland,https://www.meetup.com/Business-Process-Management-Automation/events/262060694/,30954940,Business-Process-Management-Automation
-74,261637921,Brainfood for Startups with Pascal Bieri,https://www.meetup.com/Westhive-Innovation-Ecosystem/events/261637921/,30385620,Westhive-Innovation-Ecosystem
-75,261865256,Best of SAFe Summit Den Haag,https://www.meetup.com/Zurich-SAFe/events/261865256/,18915208,Zurich-SAFe
-76,gcdnlqyzhbnc,Blockchain meetup,https://www.meetup.com/Azure-Blockchain-Zurich/events/256172195/,26357880,Azure-Blockchain-Zurich
-77,259803250,Pitch for Purpose Online Demo Day: Watch Live Global Startup Pitch Competition,https://www.meetup.com/Zurich-Startup-Founder-101/events/259803250/,19108430,Zurich-Startup-Founder-101
-78,qcddnqyzjblc,Crypto Friday - Wine & Vision,https://www.meetup.com/CV-Labs-Switzerland/events/261638843/,27342970,CV-Labs-Switzerland
-79,262060256,"CryptoMonday | ""There is no Blockchain"" and the need of Business Blockchains",https://www.meetup.com/CryptoMonday-Blockchain-Zurich/events/262060256/,32098343,CryptoMonday-Blockchain-Zurich
-80,tdxfslyzkbcb,"Tolles Projekt ? ""Technische Probleme"" ? Nur hereinspaziert.",https://www.meetup.com/Arduino-und-Elektronik-Abend-im-FabLab-Zurich/events/261010079/,18450765,Arduino-und-Elektronik-Abend-im-FabLab-Zurich
-81,260794474,DevOps Value Stream Mapping: Experiences and Learnings,https://www.meetup.com/DevOps-Meetup-Zurich/events/260794474/,19506753,DevOps-Meetup-Zurich
-82,261893279,Soziokratie kennenlernen - Zusammenarbeit gemeinsam gestalten,https://www.meetup.com/New-Ways-Of-Working/events/261893279/,29585304,New-Ways-Of-Working
-83,frtjxqyzkbdb,"Practice your programming skills with Python, Javascript, Java, C(++) or ...",https://www.meetup.com/opentechschool-zurich/events/261844814/,8170522,opentechschool-zurich
-84,gvsjxqyzkbdb,"Learn programming with Python, Java, Javascript, C(++) or ...",https://www.meetup.com/opentechschool-zurich/events/262250683/,8170522,opentechschool-zurich
-85,jjtjwqyzkbdb,Regular Tuesday WoSEC meetup,https://www.meetup.com/WIST-Women-in-Security-and-Tech-Zurich/events/261251692/,30876143,WIST-Women-in-Security-and-Tech-Zurich
-86,262089591,"Agilität, jenseits von Frameworks und Prozessen",https://www.meetup.com/Agile-Breakfast-Zurich/events/262089591/,21644552,Agile-Breakfast-Zurich
-87,261482796,Discussion: What are your favorite data visualization books?,https://www.meetup.com/datavis-zurich/events/261482796/,31838175,datavis-zurich
-88,dftzplyzkbfb,UX Happy Hour,https://www.meetup.com/uxhappyhour/events/261462993/,11102042,uxhappyhour
-89,261668949,№ 8,https://www.meetup.com/vue_zurich/events/261668949/,27983448,vue_zurich
-90,261699737,Embrace agility – creating a responsive organization,https://www.meetup.com/Agile-Baden-CH/events/261699737/,31946434,Agile-Baden-CH
-91,262220965,NLP Picnic,https://www.meetup.com/NLP-Zurich/events/262220965/,23400690,NLP-Zurich
-92,262000623,All about Cloud Native,https://www.meetup.com/Microservices-Zurich/events/262000623/,19464889,Microservices-Zurich
-93,260938034,12th SDN workshop,https://www.meetup.com/SDN-Switzerland/events/260938034/,18933386,SDN-Switzerland
-94,261830032,Westhive Summerfäscht,https://www.meetup.com/Westhive-Innovation-Ecosystem/events/261830032/,30385620,Westhive-Innovation-Ecosystem
-95,261620548,22nd Swiss Big Data User Group Meetup,https://www.meetup.com/swiss-big-data/events/261620548/,18369817,swiss-big-data
-96,259700830,Trust Square Lecture Series - What are Tokens? A Legal Analysis,https://www.meetup.com/Trust-Square-Blockchain-Swiss-Made/events/259700830/,28411105,Trust-Square-Blockchain-Swiss-Made
-97,261656198,Meetup #3: Branding and UX für Voice User Interfaces,https://www.meetup.com/Zurich-Voice-Meetup/events/261656198/,30538328,Zurich-Voice-Meetup
-98,261676815,Save the date CSM Formal Austausch,https://www.meetup.com/Zurich-Customer-Success-Austausch/events/261676815/,23965165,Zurich-Customer-Success-Austausch
-99,261862930,WWD Meetup Juli,https://www.meetup.com/WintiWebDev-Talks/events/261862930/,18532052,WintiWebDev-Talks
-100,261318724,How start-cons uses Salesforce (for Sales),https://www.meetup.com/Salesforce-User/events/261318724/,28667740,Salesforce-User
-101,kckcwqyzkbpb,GDG & WTM Stammtisch,https://www.meetup.com/GDG-Zurich/events/260905846/,11090922,GDG-Zurich
-102,qcddnqyzkbqb,Crypto Friday - Wine & Vision,https://www.meetup.com/CV-Labs-Switzerland/events/261813583/,27342970,CV-Labs-Switzerland
-103,jqfsxqyzkbxb,Neos CMS - Monthly regulars' table in Zurich,https://www.meetup.com/Neos-CMS-and-Flow-Framework-Meetup-Swiss/events/261616507/,20044220,Neos-CMS-and-Flow-Framework-Meetup-Swiss
-104,261926585,Angular PWA : the technology & pitfalls ,https://www.meetup.com/Zurich-Progressive-Web-App-Meetup/events/261926585/,27120674,Zurich-Progressive-Web-App-Meetup
-105,qcddnqyzkbjc,Crypto Friday - Wine & Vision,https://www.meetup.com/CV-Labs-Switzerland/events/261813518/,27342970,CV-Labs-Switzerland
-106,261482996,Presentation: Accessible Data Visualization by Luc Guillemot & Tania Boa,https://www.meetup.com/datavis-zurich/events/261482996/,31838175,datavis-zurich
-107,dftzplyzlbkb,UX Happy Hour,https://www.meetup.com/uxhappyhour/events/262238108/,11102042,uxhappyhour
-108,259591897,React Zurich August Meetup,https://www.meetup.com/Zurich-ReactJS-Meetup/events/259591897/,18405138,Zurich-ReactJS-Meetup
-109,258073541,August Meetup for the Azure Pro Workgroup,https://www.meetup.com/Azure-Professional-Workgroup/events/258073541/,29454575,Azure-Professional-Workgroup
-110,261608814,CMCE 1908,https://www.meetup.com/CMCE-Configuration-Manager-Community-Event/events/261608814/,19730494,CMCE-Configuration-Manager-Community-Event
-111,261656335,Meetup #4: Voice Control in Products & Services,https://www.meetup.com/Zurich-Voice-Meetup/events/261656335/,30538328,Zurich-Voice-Meetup
-112,260088648,Introduction to Deep Learning,https://www.meetup.com/AI-for-Intelligent-Cloud-Zurich/events/260088648/,30507802,AI-for-Intelligent-Cloud-Zurich
-113,258755139,Lean Change Management Meetup,https://www.meetup.com/Zurich-Lean-Change-Management-Meetup/events/258755139/,22191076,Zurich-Lean-Change-Management-Meetup
-114,261286923,Cloud Native Computing Meetup | August 2019,https://www.meetup.com/Cloud-Native-Computing-Switzerland/events/261286923/,23123972,Cloud-Native-Computing-Switzerland
-115,gcdnlqyzlbmc,Blockchain meetup,https://www.meetup.com/Azure-Blockchain-Zurich/events/256172659/,26357880,Azure-Blockchain-Zurich
-116,261996839,WWD Meetup September,https://www.meetup.com/WintiWebDev-Talks/events/261996839/,18532052,WintiWebDev-Talks
-117,262027939,Cloud Native,https://www.meetup.com/Microservices-Zurich/events/262027939/,19464889,Microservices-Zurich
-118,259700952,Trust Square Lecture Series - Economics of Decentralized Virtual Properties,https://www.meetup.com/Trust-Square-Blockchain-Swiss-Made/events/259700952/,28411105,Trust-Square-Blockchain-Swiss-Made
-119,258261977,Autumn TypeScript Meetup,https://www.meetup.com/TypeScript-Switzerland/events/258261977/,20057281,TypeScript-Switzerland
-120,261997999,BUSINESS BREAKFAST - Communication & Endpoint Security,https://www.meetup.com/Trans4mation-SWISS-AG-Networking/events/261997999/,31320365,Trans4mation-SWISS-AG-Networking
-121,261536380,World Interaction Design Day (IxDD) 2019,https://www.meetup.com/IxDA-Zurich/events/261536380/,7717752,IxDA-Zurich
-122,ssbdfqyzmbjc,1. Meet up Lean Change Management,https://www.meetup.com/Zurich-Lean-Change-Management-Meetup/events/261506025/,22191076,Zurich-Lean-Change-Management-Meetup
-123,gcdnlqyzmbjc,Blockchain meetup,https://www.meetup.com/Azure-Blockchain-Zurich/events/256172679/,26357880,Azure-Blockchain-Zurich
-124,dftzplyznbdb,UX Happy Hour,https://www.meetup.com/uxhappyhour/events/261454641/,11102042,uxhappyhour
-125,260088722,Hands-On with Microsoft Cognitive Services,https://www.meetup.com/AI-for-Intelligent-Cloud-Zurich/events/260088722/,30507802,AI-for-Intelligent-Cloud-Zurich
-126,260564609,NEW QUANT EVENT!  ,https://www.meetup.com/Quant-People-in-Zurich/events/260564609/,29850772,Quant-People-in-Zurich
-127,gcdnlqyzpblc,Blockchain meetup,https://www.meetup.com/Azure-Blockchain-Zurich/events/258207209/,26357880,Azure-Blockchain-Zurich
-128,260779675,Blockchain & Crypto Conference in Zug - End of 2019 (TBD),https://www.meetup.com/Crypto-World-Zug/events/260779675/,27879127,Crypto-World-Zug
-129,261998425,"Pantalks: AI mornings with Anna Ukhanova, Senior Research Program Manager AI/ML",https://www.meetup.com/Pantalks-tech-non-tech-talks-Panter-AG-Zurich/events/261998425/,6569732,Pantalks-tech-non-tech-talks-Panter-AG-Zurich
-130,261224916,Versicherungen in der digitalen Zeit - Was sind die Erfolgsfaktoren?,https://www.meetup.com/Agile-Breakfast-Luzern/events/261224916/,18778685,Agile-Breakfast-Luzern
-131,gcdnlqyzqbjc,Blockchain meetup,https://www.meetup.com/Azure-Blockchain-Zurich/events/256172186/,26357880,Azure-Blockchain-Zurich
+,id,name,event_url,rsvp_limit,yes_rsvp_count,time,city,group_id,group_urlname
+0,hsgfhqyzjbvb,CoderDojo Zurich,https://www.meetup.com/Coder-Dojo-Zurich/events/260963172/,30.0,10,1560690000000,Zürich,13186902,Coder-Dojo-Zurich
+1,261807303,From Mess to Meaning: Liberating Strategic Planning in Complex Contexts,https://www.meetup.com/Liberating-Structures-User-Group-Schweiz/events/261807303/,2.0,3,1560771000000,Zürich,24329787,Liberating-Structures-User-Group-Schweiz
+2,261808829,AWS and HashiCorp Terraform - better together,https://www.meetup.com/AWS-Swiss-User-Group-Zurich/events/261808829/,,76,1560787200000,Zürich,20317194,AWS-Swiss-User-Group-Zurich
+3,261798794,Oyoba Community Meetup #1,https://www.meetup.com/Oyoba-building-the-future-of-banking-together/events/261798794/,40.0,19,1560787200000,8003 Zürich ,31270353,Oyoba-building-the-future-of-banking-together
+4,262193834,How to Benefit as a Startup from Business Failures | Open-mic FuckUp Night ,https://www.meetup.com/CV-Labs-Switzerland/events/262193834/,40.0,11,1560787200000,Zug,27342970,CV-Labs-Switzerland
+5,vrnxvqyzjbwb,The RubyMonstas Summer BBQ!,https://www.meetup.com/RubyMonstas-Programming-for-Women/events/261786393/,,10,1560789000000,Zürich,19739877,RubyMonstas-Programming-for-Women
+6,262122041,Social Perl,https://www.meetup.com/Swiss-Perl-Community-Meetup/events/262122041/,,6,1560789000000,Zürich,14243062,Swiss-Perl-Community-Meetup
+7,258787674,SAP Customer Experience Day,https://www.meetup.com/SAP-Customer-Experience-Switzerland/events/258787674/,,22,1560841200000,Zürich,31056273,SAP-Customer-Experience-Switzerland
+8,262092171,"(ZURICH) Get started with Rust, Stack Overflow's most loved language",https://www.meetup.com/Code4Fun/events/262092171/,40.0,30,1560873600000,8005 Zurich,28264920,Code4Fun
+9,261655462,Cryptotreff - Afterwork in USTER - Juni 2019,https://www.meetup.com/cryptowelt/events/261655462/,,7,1560873600000,Uster,25868301,cryptowelt
+10,261736594,Drupal Roundtable June 2019,https://www.meetup.com/Zurich-Drupal-Meetup/events/261736594/,,12,1560873600000,Zürich,18512629,Zurich-Drupal-Meetup
+11,261253026,Mini-AnalyticsCamp Zurich @ Liip,https://www.meetup.com/analyticscampch/events/261253026/,75.0,52,1560873600000,Zürich,23242196,analyticscampch
+12,262092231,The #DeFi investment case,https://www.meetup.com/meetup-group-MxIAcYAu/events/262092231/,60.0,16,1560873600000,Zürich,27090394,meetup-group-MxIAcYAu
+13,261999281,"SLTA LegalTech Circle presenting Skribble, a LegalTech Company.",https://www.meetup.com/Zurich-Legal-Tech-Meetup/events/261999281/,,11,1560873600000,Zürich,19491054,Zurich-Legal-Tech-Meetup
+14,261804396,AI reinforcement learning & analytical data mgmt with R,https://www.meetup.com/Zurich-R-User-Group/events/261804396/,120.0,120,1560875400000,Zürich,19133459,Zurich-R-User-Group
+15,260883515,Modern and serverless web applications with GraphQL,https://www.meetup.com/Pantalks-tech-non-tech-talks-Panter-AG-Zurich/events/260883515/,,66,1560875400000,8005 Zürich,6569732,Pantalks-tech-non-tech-talks-Panter-AG-Zurich
+16,261956820,TensorFlow 2.0 — What's New & Cell Phenotyping with Python,https://www.meetup.com/PyData-Zurich/events/261956820/,,80,1560877200000,8048 Zurich,20358742,PyData-Zurich
+17,gvsjxqyzjbxb,"Learn programming with Python, Java, Javascript, C(++) or ...",https://www.meetup.com/opentechschool-zurich/events/261859787/,20.0,5,1560877200000,Zürich,8170522,opentechschool-zurich
+18,frtjxqyzjbxb,"Practice your programming skills with Python, Javascript, Java, C(++) or ...",https://www.meetup.com/opentechschool-zurich/events/261844748/,,4,1560877200000,Zürich,8170522,opentechschool-zurich
+19,262218394,PyData Zürich: TensorFlow 2.0 — What's New & Cell Phenotyping with Python,https://www.meetup.com/Big-Data-Developers-Switzerland/events/262218394/,,28,1560877200000,Zürich,10220112,Big-Data-Developers-Switzerland
+20,262218416,PyData Meetup Zürich: TensorFlow 2.0 — What's New & Cell Phenotyping with Python,https://www.meetup.com/SwissLifeScience/events/262218416/,,3,1560877200000,Zürich,18721751,SwissLifeScience
+21,261010436,First Swiss CSA chapter event - Zürich Area,https://www.meetup.com/Cloud-Security-Alliance-CSA-Chapter/events/261010436/,,36,1560961800000,Zürich,31761969,Cloud-Security-Alliance-CSA-Chapter
+22,261680452,DC4131 Defcon Dojo,https://www.meetup.com/DC4131/events/261680452/,,4,1560961800000,Zürich,14489982,DC4131
+23,261863683,3rd Robotics and ROS in Zurich Meetup,https://www.meetup.com/Robotics-and-ROS-in-Zurich/events/261863683/,,39,1560961800000,Zürich,31303696,Robotics-and-ROS-in-Zurich
+24,262249398,Bitcoin Meetup Zürich,https://www.meetup.com/Bitcoin-Meetup-Switzerland/events/262249398/,,10,1560963600000,Zürich,8278642,Bitcoin-Meetup-Switzerland
+25,262062817,Crafty Discussions Session 4 - Zurich,https://www.meetup.com/Software-Artisans/events/262062817/,,6,1560963600000,Zürich,32010407,Software-Artisans
+26,258384690,"Developer UnConference Zürich, Switzerland",https://www.meetup.com/Big-Data-Developers-Switzerland/events/258384690/,90.0,78,1561014000000,Zürich,10220112,Big-Data-Developers-Switzerland
+27,261416670,Big Data MeetUp,https://www.meetup.com/Big-Data-Developers-Switzerland/events/261416670/,,17,1561037400000,Zürich,10220112,Big-Data-Developers-Switzerland
+28,261757869,Web Zürich June,https://www.meetup.com/Web-Zurich/events/261757869/,100.0,71,1561046400000,Zürich,19998223,Web-Zurich
+29,261589953,Rethinking agility,https://www.meetup.com/DevOps-Meetup-Zurich/events/261589953/,80.0,80,1561046400000,Zürich,19506753,DevOps-Meetup-Zurich
+30,259789564,13th Power BI User Group Meetup,https://www.meetup.com/Power-BI-User-Group-Switzerland/events/259789564/,80.0,54,1561046400000,Wallisellen,19234236,Power-BI-User-Group-Switzerland
+31,261696009,Test in the Pub - A Mix of Topics,https://www.meetup.com/Meetup-of-Test/events/261696009/,12.0,12,1561046400000,8001 Zürich,18519439,Meetup-of-Test
+32,261506101,UX ROI Zürich ,https://www.meetup.com/UX-ROI-Zurich/events/261506101/,55.0,14,1561046400000,Zürich,31900931,UX-ROI-Zurich
+33,260110333,Summer time is SaltStack time!,https://www.meetup.com/Zurich-SaltStack/events/260110333/,,6,1561046400000,,18689551,Zurich-SaltStack
+34,262112083,how to increase your agile leadership skills *free of cost*,https://www.meetup.com/agile-Mindset-Zurich/events/262112083/,12.0,9,1561048200000,Zürich,30490660,agile-Mindset-Zurich
+35,xstdzqyzjbbc,Unreal Engine Schweiz Meetup ,https://www.meetup.com/Unreal-Engine-Schweiz/events/261504370/,,6,1561050000000,Zürich,21498984,Unreal-Engine-Schweiz
+36,261894681,Zürich Blockchain Open Coffee Vol. VI,https://www.meetup.com/Zurich-Blockchain-Open-Coffee/events/261894681/,,10,1561095000000,Zürich,31219627,Zurich-Blockchain-Open-Coffee
+37,260240085,Swiss Blockchain Hackathon,https://www.meetup.com/Trust-Square-Blockchain-Swiss-Made/events/260240085/,,20,1561114800000,Zürich,28411105,Trust-Square-Blockchain-Swiss-Made
+38,261780281,CoderDojo Summer Finale 2019 & Cyber Protection Challenge,https://www.meetup.com/Coder-Dojo-Zurich/events/261780281/,30.0,9,1561291200000,Zürich,13186902,Coder-Dojo-Zurich
+39,260442996,Andreas M. Antonopoulos: Thoughts on The Future of Programmable Money.,https://www.meetup.com/Bitcoin-Meetup-Switzerland/events/260442996/,1400.0,1319,1561307400000,Zürich,8278642,Bitcoin-Meetup-Switzerland
+40,261510547,6th Swiss Oracle Cloud Community Meeting,https://www.meetup.com/Swiss-Oracle-Cloud-Community/events/261510547/,,7,1561386600000,Zürich,28518699,Swiss-Oracle-Cloud-Community
+41,261258875,Cool Kids On The Blockchain - Startup Party | part of Crypto Valley Week,https://www.meetup.com/CV-Labs-Switzerland/events/261258875/,350.0,41,1561395600000,Zug,27342970,CV-Labs-Switzerland
+42,260730560,AI mornings: Unlocking Value from Customer Conversations with Speech-to-Meaning,https://www.meetup.com/Pantalks-tech-non-tech-talks-Panter-AG-Zurich/events/260730560/,,37,1561442400000,8005 Zürich,6569732,Pantalks-tech-non-tech-talks-Panter-AG-Zurich
+43,257098233,ICT Solution Day Schweiz 2019,https://www.meetup.com/ICT-Schweiz/events/257098233/,,4,1561447800000,Rüschlikon,25127930,ICT-Schweiz
+44,261928709,#MeetAmbitorio - Ambitorio Open Door Day,https://www.meetup.com/Friends-of-Ambitorio/events/261928709/,,6,1561462200000,Baar,21870494,Friends-of-Ambitorio
+45,261927228,Transforming healthcare with AI,https://www.meetup.com/Deep-Learning-Zurich-DLZH/events/261927228/,100.0,61,1561478400000,Zürich,31150209,Deep-Learning-Zurich-DLZH
+46,ssbdfqyzjbkc,Lean Change Management Meetup,https://www.meetup.com/Zurich-Lean-Change-Management-Meetup/events/258755096/,25.0,17,1561478400000,Zürich,22191076,Zurich-Lean-Change-Management-Meetup
+47,gvsjxqyzjbhc,"Learn programming with Python, Java, Javascript, C(++) or ...",https://www.meetup.com/opentechschool-zurich/events/260964804/,20.0,5,1561482000000,Zürich,8170522,opentechschool-zurich
+48,262058196,Blockchain inside: Regulatory & legal work from insiders - a 100 % insider panel,https://www.meetup.com/CV-Labs-Switzerland/events/262058196/,75.0,29,1561483800000,Zug,27342970,CV-Labs-Switzerland
+49,262034210,Business Agility: warum? und wie?,https://www.meetup.com/Zurich-Business-Agility-Meetup/events/262034210/,,10,1561564800000,Zürich,27133049,Zurich-Business-Agility-Meetup
+50,261505092,Data from the Edge to AI,https://www.meetup.com/futureofdata-zurich/events/261505092/,30.0,25,1561564800000,Zürich,28528700,futureofdata-zurich
+51,261315229,Product Management Night Zurich #2 @Swisscom,https://www.meetup.com/Zurich-Product-Management/events/261315229/,50.0,35,1561564800000,Zürich,19826296,Zurich-Product-Management
+52,261616660,Machine Learning and Software Architecture - Building scalable predictors,https://www.meetup.com/Software-Architecture-and-Project-Design-Zurich/events/261616660/,40.0,23,1561566600000,Zürich,30425212,Software-Architecture-and-Project-Design-Zurich
+53,261996484,SOAI / Google Cloud Study Jam,https://www.meetup.com/School-of-AI-Zurich/events/261996484/,25.0,25,1561566600000,Zürich,29942974,School-of-AI-Zurich
+54,262225424,GigBuzz #8: Exbeertise,https://www.meetup.com/GigBuzz-Zurich/events/262225424/,,6,1561566600000,,28258734,GigBuzz-Zurich
+55,ffpfsqyzjbjc,Investing in Digital Assets 🥂,https://www.meetup.com/CryptoSummit/events/261233068/,,4,1561568400000,Zug,25405406,CryptoSummit
+56,cqqsxqyzjbjc,Investing in Digital Assets 🥂,https://www.meetup.com/SMART-VALOR/events/258789014/,,3,1561568400000,Zug,27701779,SMART-VALOR
+57,262060694,Next Business Process Management & Automation meetup in Switzerland,https://www.meetup.com/Business-Process-Management-Automation/events/262060694/,10.0,10,1561635000000,Zürich,30954940,Business-Process-Management-Automation
+58,261637921,Brainfood for Startups with Pascal Bieri,https://www.meetup.com/Westhive-Innovation-Ecosystem/events/261637921/,,8,1561651200000,Zürich,30385620,Westhive-Innovation-Ecosystem
+59,261865256,Best of SAFe Summit Den Haag,https://www.meetup.com/Zurich-SAFe/events/261865256/,30.0,26,1561651200000,Zürich,18915208,Zurich-SAFe
+60,gcdnlqyzhbnc,Blockchain meetup,https://www.meetup.com/Azure-Blockchain-Zurich/events/256172195/,80.0,29,1561653000000,Zürich,26357880,Azure-Blockchain-Zurich
+61,259803250,Pitch for Purpose Online Demo Day: Watch Live Global Startup Pitch Competition,https://www.meetup.com/Zurich-Startup-Founder-101/events/259803250/,,57,1561653000000,Zürich,19108430,Zurich-Startup-Founder-101
+62,qcddnqyzjblc,Crypto Friday - Wine & Vision,https://www.meetup.com/CV-Labs-Switzerland/events/261638843/,90.0,12,1561734000000,Zug,27342970,CV-Labs-Switzerland
+63,262237368,Framer Meetup Zurich @ Ginetta,https://www.meetup.com/meetup-group-ohTCAajV/events/262237368/,40.0,12,1561995000000,Zürich,32149848,meetup-group-ohTCAajV
+64,xgtstpyzkbcb,Workshop Linux Kernel & Root File System,https://www.meetup.com/Embedded-GNU-Linux-Developer/events/260538928/,10.0,4,1561999500000,Zürich,27942126,Embedded-GNU-Linux-Developer
+65,262060256,"CryptoMonday | ""There is no Blockchain"" and the need of Business Blockchains",https://www.meetup.com/CryptoMonday-Blockchain-Zurich/events/262060256/,,16,1562000400000,Zürich,32098343,CryptoMonday-Blockchain-Zurich
+66,tdxfslyzkbcb,"Tolles Projekt ? ""Technische Probleme"" ? Nur hereinspaziert.",https://www.meetup.com/Arduino-und-Elektronik-Abend-im-FabLab-Zurich/events/261010079/,,4,1562000400000,Zürich,18450765,Arduino-und-Elektronik-Abend-im-FabLab-Zurich
+67,260794474,DevOps Value Stream Mapping: Experiences and Learnings,https://www.meetup.com/DevOps-Meetup-Zurich/events/260794474/,,13,1562081400000,Schlieren,19506753,DevOps-Meetup-Zurich
+68,262268446,Infrastructure as TypeScript with James Nugent,https://www.meetup.com/NET-Usergroup-Zentralschweiz/events/262268446/,,10,1562083200000,Luzern,18250501,NET-Usergroup-Zentralschweiz
+69,261893279,Soziokratie kennenlernen - Zusammenarbeit gemeinsam gestalten,https://www.meetup.com/New-Ways-Of-Working/events/261893279/,,4,1562085000000,Zürich,29585304,New-Ways-Of-Working
+70,gvsjxqyzkbdb,"Learn programming with Python, Java, Javascript, C(++) or ...",https://www.meetup.com/opentechschool-zurich/events/262250683/,20.0,3,1562086800000,Zürich,8170522,opentechschool-zurich
+71,frtjxqyzkbdb,"Practice your programming skills with Python, Javascript, Java, C(++) or ...",https://www.meetup.com/opentechschool-zurich/events/261844814/,,3,1562086800000,Zürich,8170522,opentechschool-zurich
+72,jjtjwqyzkbdb,Regular Tuesday WoSEC meetup,https://www.meetup.com/WIST-Women-in-Security-and-Tech-Zurich/events/261251692/,,4,1562086800000,,30876143,WIST-Women-in-Security-and-Tech-Zurich
+73,262089591,"Agilität, jenseits von Frameworks und Prozessen",https://www.meetup.com/Agile-Breakfast-Zurich/events/262089591/,50.0,39,1562134500000,8048 Zürich,21644552,Agile-Breakfast-Zurich
+74,261482796,Discussion: What are your favorite data visualization books?,https://www.meetup.com/datavis-zurich/events/261482796/,30.0,14,1562148000000,Zürich,31838175,datavis-zurich
+75,dftzplyzkbfb,UX Happy Hour,https://www.meetup.com/uxhappyhour/events/261462993/,,5,1562171400000,,11102042,uxhappyhour
+76,261668949,№ 8,https://www.meetup.com/vue_zurich/events/261668949/,,6,1562171400000,,27983448,vue_zurich
+77,262249606,XIV. Go Meetup ,https://www.meetup.com/Zurich-Gophers/events/262249606/,60.0,42,1562173200000,Zürich,17314342,Zurich-Gophers
+78,261699737,Embrace agility – creating a responsive organization,https://www.meetup.com/Agile-Baden-CH/events/261699737/,,11,1562254200000,Baden,31946434,Agile-Baden-CH
+79,262285446,Elementor Zürich - Sommertreffen,https://www.meetup.com/Zurich-Elementor/events/262285446/,8.0,3,1562256000000,Zürich,32140009,Zurich-Elementor
+80,262220965,NLP Picnic,https://www.meetup.com/NLP-Zurich/events/262220965/,,43,1562256000000,Zürich,23400690,NLP-Zurich
+81,262000623,All about Cloud Native,https://www.meetup.com/Microservices-Zurich/events/262000623/,50.0,26,1562257800000,Wallisellen / Zürich,19464889,Microservices-Zurich
+82,260938034,12th SDN workshop,https://www.meetup.com/SDN-Switzerland/events/260938034/,,12,1562308200000,Zürich,18933386,SDN-Switzerland
+83,261830032,Westhive Summerfäscht,https://www.meetup.com/Westhive-Innovation-Ecosystem/events/261830032/,,7,1562335200000,Zürich,30385620,Westhive-Innovation-Ecosystem
+84,261620548,22nd Swiss Big Data User Group Meetup,https://www.meetup.com/swiss-big-data/events/261620548/,50.0,30,1562599800000,Zürich,18369817,swiss-big-data
+85,259700830,Trust Square Lecture Series - What are Tokens? A Legal Analysis,https://www.meetup.com/Trust-Square-Blockchain-Swiss-Made/events/259700830/,,14,1562601600000,Zürich,28411105,Trust-Square-Blockchain-Swiss-Made
+86,261656198,Meetup #3: Branding and UX für Voice User Interfaces,https://www.meetup.com/Zurich-Voice-Meetup/events/261656198/,80.0,67,1562603400000,Zürich,30538328,Zurich-Voice-Meetup
+87,261676815,Save the date CSM Formal Austausch,https://www.meetup.com/Zurich-Customer-Success-Austausch/events/261676815/,,4,1562688000000,,23965165,Zurich-Customer-Success-Austausch
+88,261862930,WWD Meetup Juli,https://www.meetup.com/WintiWebDev-Talks/events/261862930/,,8,1562776200000,,18532052,WintiWebDev-Talks
+89,261318724,How start-cons uses Salesforce (for Sales),https://www.meetup.com/Salesforce-User/events/261318724/,,4,1562860800000,,28667740,Salesforce-User
+90,262139621,how to increase you agile competences *free of cost*,https://www.meetup.com/agile-Mindset-Zurich/events/262139621/,12.0,3,1562862600000,Zürich,30490660,agile-Mindset-Zurich
+91,kckcwqyzkbpb,GDG & WTM Stammtisch,https://www.meetup.com/GDG-Zurich/events/260905846/,15.0,5,1562864400000,Zürich,11090922,GDG-Zurich
+92,qcddnqyzkbqb,Crypto Friday - Wine & Vision,https://www.meetup.com/CV-Labs-Switzerland/events/261813583/,90.0,4,1562943600000,Zug,27342970,CV-Labs-Switzerland
+93,jqfsxqyzkbxb,Neos CMS - Monthly regulars' table in Zurich,https://www.meetup.com/Neos-CMS-and-Flow-Framework-Meetup-Swiss/events/261616507/,20.0,4,1563465600000,Zürich,20044220,Neos-CMS-and-Flow-Framework-Meetup-Swiss
+94,261926585,Angular PWA : the technology & pitfalls ,https://www.meetup.com/Zurich-Progressive-Web-App-Meetup/events/261926585/,,4,1563985800000,Zürich,27120674,Zurich-Progressive-Web-App-Meetup
+95,262312045,PWA with Angular,https://www.meetup.com/AngularZRH/events/262312045/,,5,1563985800000,,12710702,AngularZRH
+96,qcddnqyzkbjc,Crypto Friday - Wine & Vision,https://www.meetup.com/CV-Labs-Switzerland/events/261813518/,90.0,3,1564153200000,Zug,27342970,CV-Labs-Switzerland
+97,261482996,Presentation: Accessible Data Visualization by Luc Guillemot & Tania Boa,https://www.meetup.com/datavis-zurich/events/261482996/,30.0,22,1565103600000,Zürich,31838175,datavis-zurich
+98,dftzplyzlbkb,UX Happy Hour,https://www.meetup.com/uxhappyhour/events/262238108/,,3,1565195400000,,11102042,uxhappyhour
+99,259591897,React Zurich August Meetup,https://www.meetup.com/Zurich-ReactJS-Meetup/events/259591897/,50.0,28,1565197200000,Zürich,18405138,Zurich-ReactJS-Meetup
+100,258073541,August Meetup for the Azure Pro Workgroup,https://www.meetup.com/Azure-Professional-Workgroup/events/258073541/,,6,1566230400000,Zürich,29454575,Azure-Professional-Workgroup
+101,261608814,CMCE 1908,https://www.meetup.com/CMCE-Configuration-Manager-Community-Event/events/261608814/,1.0,1,1566540000000,Zürich,19730494,CMCE-Configuration-Manager-Community-Event
+102,261656335,Meetup #4: Voice Control in Products & Services,https://www.meetup.com/Zurich-Voice-Meetup/events/261656335/,100.0,6,1566837000000,Zürich,30538328,Zurich-Voice-Meetup
+103,260088648,Introduction to Deep Learning,https://www.meetup.com/AI-for-Intelligent-Cloud-Zurich/events/260088648/,,36,1566921600000,Zürich,30507802,AI-for-Intelligent-Cloud-Zurich
+104,258755139,Lean Change Management Meetup,https://www.meetup.com/Zurich-Lean-Change-Management-Meetup/events/258755139/,25.0,4,1567094400000,,22191076,Zurich-Lean-Change-Management-Meetup
+105,261286923,Cloud Native Computing Meetup | August 2019,https://www.meetup.com/Cloud-Native-Computing-Switzerland/events/261286923/,100.0,24,1567094400000,,23123972,Cloud-Native-Computing-Switzerland
+106,gcdnlqyzlbmc,Blockchain meetup,https://www.meetup.com/Azure-Blockchain-Zurich/events/256172659/,80.0,5,1567096200000,Zürich,26357880,Azure-Blockchain-Zurich
+107,261996839,WWD Meetup September,https://www.meetup.com/WintiWebDev-Talks/events/261996839/,,5,1567441800000,,18532052,WintiWebDev-Talks
+108,262027939,Cloud Native,https://www.meetup.com/Microservices-Zurich/events/262027939/,50.0,20,1567614600000,Wallisellen / Zürich,19464889,Microservices-Zurich
+109,xdzhgqyzmbhb,Coders Monthly,https://www.meetup.com/coders-only-zurich/events/262222550/,,3,1567702800000,Zürich,7251112,coders-only-zurich
+110,259700952,Trust Square Lecture Series - Economics of Decentralized Virtual Properties,https://www.meetup.com/Trust-Square-Blockchain-Swiss-Made/events/259700952/,,10,1568131200000,Zürich,28411105,Trust-Square-Blockchain-Swiss-Made
+111,258261977,Autumn TypeScript Meetup,https://www.meetup.com/TypeScript-Switzerland/events/258261977/,20.0,5,1568219400000,,20057281,TypeScript-Switzerland
+112,261997999,BUSINESS BREAKFAST - Communication & Endpoint Security,https://www.meetup.com/Trans4mation-SWISS-AG-Networking/events/261997999/,30.0,3,1568871000000,Zürich,31320365,Trans4mation-SWISS-AG-Networking
+113,261536380,World Interaction Design Day (IxDD) 2019,https://www.meetup.com/IxDA-Zurich/events/261536380/,,9,1569308400000,,7717752,IxDA-Zurich
+114,ssbdfqyzmbjc,1. Meet up Lean Change Management,https://www.meetup.com/Zurich-Lean-Change-Management-Meetup/events/261506025/,20.0,3,1569513600000,,22191076,Zurich-Lean-Change-Management-Meetup
+115,gcdnlqyzmbjc,Blockchain meetup,https://www.meetup.com/Azure-Blockchain-Zurich/events/256172679/,80.0,4,1569515400000,Zürich,26357880,Azure-Blockchain-Zurich
+116,dftzplyznbdb,UX Happy Hour,https://www.meetup.com/uxhappyhour/events/261454641/,,3,1570033800000,,11102042,uxhappyhour
+117,260088722,Hands-On with Microsoft Cognitive Services,https://www.meetup.com/AI-for-Intelligent-Cloud-Zurich/events/260088722/,,8,1571760000000,Zürich,30507802,AI-for-Intelligent-Cloud-Zurich
+118,262253744,Hack'n'Lead 2019: Switzerland's women-friendly hackathon,https://www.meetup.com/womenplusplus/events/262253744/,,5,1572678000000,Zürich,25517536,womenplusplus
+119,260564609,NEW QUANT EVENT!  ,https://www.meetup.com/Quant-People-in-Zurich/events/260564609/,,7,1573146000000,Zürich,29850772,Quant-People-in-Zurich
+120,gcdnlqyzpblc,Blockchain meetup,https://www.meetup.com/Azure-Blockchain-Zurich/events/258207209/,80.0,6,1573147800000,Zürich,26357880,Azure-Blockchain-Zurich
+121,260779675,Blockchain & Crypto Conference in Zug - End of 2019 (TBD),https://www.meetup.com/Crypto-World-Zug/events/260779675/,,9,1573286400000,Zug,27879127,Crypto-World-Zug
+122,261998425,"Pantalks: AI mornings with Anna Ukhanova, Senior Research Program Manager AI/ML",https://www.meetup.com/Pantalks-tech-non-tech-talks-Panter-AG-Zurich/events/261998425/,,21,1574751600000,Zürich,6569732,Pantalks-tech-non-tech-talks-Panter-AG-Zurich
+123,261224916,Versicherungen in der digitalen Zeit - Was sind die Erfolgsfaktoren?,https://www.meetup.com/Agile-Breakfast-Luzern/events/261224916/,80.0,6,1574926200000,Luzern,18778685,Agile-Breakfast-Luzern
+124,gcdnlqyzqbjc,Blockchain meetup,https://www.meetup.com/Azure-Blockchain-Zurich/events/256172186/,80.0,6,1576171800000,Zürich,26357880,Azure-Blockchain-Zurich

@@ -1,95 +1,93 @@
 ,id,name,members,link
-0,6569732,Pantalks - tech & non-tech talks @ Colab Zürich,2383,https://www.meetup.com/Pantalks-tech-non-tech-talks-Panter-AG-Zurich/
-1,7717752,IxDA Zurich,278,https://www.meetup.com/IxDA-Zurich/
-2,8170522,OpenTechSchool Zurich,2497,https://www.meetup.com/opentechschool-zurich/
-3,8278642,Bitcoin Meetup Switzerland,7095,https://www.meetup.com/Bitcoin-Meetup-Switzerland/
-4,10220112,Big Data Developers in Switzerland,2988,https://www.meetup.com/Big-Data-Developers-Switzerland/
-5,11090922,GDG Zürich,1344,https://www.meetup.com/GDG-Zurich/
-6,11102042,UX WIZARDS,755,https://www.meetup.com/uxhappyhour/
-7,12710702,Angular Zürich,894,https://www.meetup.com/AngularZRH/
-8,13186902,CoderDojo Zurich,446,https://www.meetup.com/Coder-Dojo-Zurich/
-9,14243062,Swiss Perl Community Meetup,104,https://www.meetup.com/Swiss-Perl-Community-Meetup/
-10,14427712,Zurich Julia Users Group,126,https://www.meetup.com/Zurich-Julia-User-Group/
-11,18369817,Swiss Big Data User Group,971,https://www.meetup.com/swiss-big-data/
-12,18405138,Zürich ReactJS Meetup,889,https://www.meetup.com/Zurich-ReactJS-Meetup/
-13,18450765,Arduino und Elektronik Abend im FabLab Zürich,952,https://www.meetup.com/Arduino-und-Elektronik-Abend-im-FabLab-Zurich/
-14,18512629,Zurich Drupal User Group Meetup,344,https://www.meetup.com/Zurich-Drupal-Meetup/
-15,18519439,Meetup of Test,431,https://www.meetup.com/Meetup-of-Test/
-16,18532052,WintiWebDev Talks,431,https://www.meetup.com/WintiWebDev-Talks/
-17,18689551,Zürich SaltStack,118,https://www.meetup.com/Zurich-SaltStack/
-18,18721751,SwissLifeScience,263,https://www.meetup.com/SwissLifeScience/
-19,18778685,Agile Breakfast Luzern von swissICT,475,https://www.meetup.com/Agile-Breakfast-Luzern/
-20,18915208,Zürich Scaled Agile Framework (SAFe®) Meetup,553,https://www.meetup.com/Zurich-SAFe/
-21,18933386,SDN Switzerland,236,https://www.meetup.com/SDN-Switzerland/
-22,19108430,Zürich Startup Founder 101,3076,https://www.meetup.com/Zurich-Startup-Founder-101/
-23,19133459,Zurich R User Group,1531,https://www.meetup.com/Zurich-R-User-Group/
-24,19234236,Power BI User Group Switzerland,753,https://www.meetup.com/Power-BI-User-Group-Switzerland/
-25,19464889,Microservices Zürich,936,https://www.meetup.com/Microservices-Zurich/
-26,19491054,Zurich Legal Tech Meetup,883,https://www.meetup.com/Zurich-Legal-Tech-Meetup/
-27,19506753,DevOps Meetup Zürich,941,https://www.meetup.com/DevOps-Meetup-Zurich/
-28,19730494,CMCE Configuration Manager Community Event,79,https://www.meetup.com/CMCE-Configuration-Manager-Community-Event/
-29,19739877,RubyMonstas - Programming for Women,451,https://www.meetup.com/RubyMonstas-Programming-for-Women/
-30,19826296,"Product Management Nights, Zurich",709,https://www.meetup.com/Zurich-Product-Management/
-31,19998223,Web Zürich,1687,https://www.meetup.com/Web-Zurich/
-32,20044220,Neos CMS and Flow Framework Meetup Swiss,61,https://www.meetup.com/Neos-CMS-and-Flow-Framework-Meetup-Swiss/
-33,20057281,TypeScript Switzerland,485,https://www.meetup.com/TypeScript-Switzerland/
-34,20317194,AWS Swiss User Group – Zürich,724,https://www.meetup.com/AWS-Swiss-User-Group-Zurich/
-35,20358742,PyData Zurich,995,https://www.meetup.com/PyData-Zurich/
-36,21498984,Unreal Engine Schweiz,51,https://www.meetup.com/Unreal-Engine-Schweiz/
-37,21644552,Agile Breakfast Zürich von swissICT,762,https://www.meetup.com/Agile-Breakfast-Zurich/
-38,21870494,Friends of Ambitorio,41,https://www.meetup.com/Friends-of-Ambitorio/
-39,22191076,Lean Change Management Meetup,336,https://www.meetup.com/Zurich-Lean-Change-Management-Meetup/
-40,23123972,Cloud Native Computing Switzerland,1117,https://www.meetup.com/Cloud-Native-Computing-Switzerland/
-41,23242196,AnalyticsCamp Switzerland,487,https://www.meetup.com/analyticscampch/
-42,23400690,Natural Language Processing - Zurich,1034,https://www.meetup.com/NLP-Zurich/
-43,23965165,Customer Success Association Switzerland Austausch,113,https://www.meetup.com/Zurich-Customer-Success-Austausch/
-44,23968433,Compiler Social Zürich,303,https://www.meetup.com/llvm-compiler-and-code-generation-socials-zurich/
-45,24329787,Liberating Structures User Group Bern,173,https://www.meetup.com/Liberating-Structures-User-Group-Schweiz/
-46,24978606,Crypto Hardware CH,169,https://www.meetup.com/Crypto-Hardware-Switzerland/
-47,24988582,Consciousness Hacking Zürich,366,https://www.meetup.com/Consciousness-Hacking-Zurich/
+0,6569732,Pantalks - tech & non-tech talks @ Colab Zürich,2393,https://www.meetup.com/Pantalks-tech-non-tech-talks-Panter-AG-Zurich/
+1,7251112,Coders Only | Zurich,1309,https://www.meetup.com/coders-only-zurich/
+2,7717752,IxDA Zurich,278,https://www.meetup.com/IxDA-Zurich/
+3,8170522,OpenTechSchool Zurich,2500,https://www.meetup.com/opentechschool-zurich/
+4,8278642,Bitcoin Meetup Switzerland,7120,https://www.meetup.com/Bitcoin-Meetup-Switzerland/
+5,10220112,Big Data Developers in Switzerland,2999,https://www.meetup.com/Big-Data-Developers-Switzerland/
+6,11090922,GDG Zürich,1342,https://www.meetup.com/GDG-Zurich/
+7,11102042,UX WIZARDS,755,https://www.meetup.com/uxhappyhour/
+8,12710702,Angular Zürich,896,https://www.meetup.com/AngularZRH/
+9,13186902,CoderDojo Zurich,447,https://www.meetup.com/Coder-Dojo-Zurich/
+10,14243062,Swiss Perl Community Meetup,104,https://www.meetup.com/Swiss-Perl-Community-Meetup/
+11,14489982,DEFCON Switzerland (DC4131),318,https://www.meetup.com/DC4131/
+12,17314342,Zürich Gophers,637,https://www.meetup.com/Zurich-Gophers/
+13,18250501,.NET Usergroup Zentralschweiz,461,https://www.meetup.com/NET-Usergroup-Zentralschweiz/
+14,18369817,Swiss Big Data User Group,972,https://www.meetup.com/swiss-big-data/
+15,18405138,Zürich ReactJS Meetup,890,https://www.meetup.com/Zurich-ReactJS-Meetup/
+16,18450765,Arduino und Elektronik Abend im FabLab Zürich,952,https://www.meetup.com/Arduino-und-Elektronik-Abend-im-FabLab-Zurich/
+17,18512629,Zurich Drupal User Group Meetup,347,https://www.meetup.com/Zurich-Drupal-Meetup/
+18,18519439,Meetup of Test,431,https://www.meetup.com/Meetup-of-Test/
+19,18532052,WintiWebDev Talks,431,https://www.meetup.com/WintiWebDev-Talks/
+20,18689551,Zürich SaltStack,118,https://www.meetup.com/Zurich-SaltStack/
+21,18721751,SwissLifeScience,263,https://www.meetup.com/SwissLifeScience/
+22,18778685,Agile Breakfast Luzern von swissICT,475,https://www.meetup.com/Agile-Breakfast-Luzern/
+23,18915208,Zürich Scaled Agile Framework (SAFe®) Meetup,557,https://www.meetup.com/Zurich-SAFe/
+24,18933386,SDN Switzerland,236,https://www.meetup.com/SDN-Switzerland/
+25,19108430,Zürich Startup Founder 101,3083,https://www.meetup.com/Zurich-Startup-Founder-101/
+26,19133459,Zurich R User Group,1537,https://www.meetup.com/Zurich-R-User-Group/
+27,19234236,Power BI User Group Switzerland,753,https://www.meetup.com/Power-BI-User-Group-Switzerland/
+28,19464889,Microservices Zürich,939,https://www.meetup.com/Microservices-Zurich/
+29,19491054,Zurich Legal Tech Meetup,883,https://www.meetup.com/Zurich-Legal-Tech-Meetup/
+30,19506753,DevOps Meetup Zürich,951,https://www.meetup.com/DevOps-Meetup-Zurich/
+31,19730494,CMCE Configuration Manager Community Event,79,https://www.meetup.com/CMCE-Configuration-Manager-Community-Event/
+32,19739877,RubyMonstas - Programming for Women,453,https://www.meetup.com/RubyMonstas-Programming-for-Women/
+33,19826296,"Product Management Nights, Zurich",713,https://www.meetup.com/Zurich-Product-Management/
+34,19998223,Web Zürich,1694,https://www.meetup.com/Web-Zurich/
+35,20044220,Neos CMS and Flow Framework Meetup Swiss,61,https://www.meetup.com/Neos-CMS-and-Flow-Framework-Meetup-Swiss/
+36,20057281,TypeScript Switzerland,485,https://www.meetup.com/TypeScript-Switzerland/
+37,20317194,AWS Swiss User Group – Zürich,728,https://www.meetup.com/AWS-Swiss-User-Group-Zurich/
+38,20358742,PyData Zurich,1001,https://www.meetup.com/PyData-Zurich/
+39,21498984,Unreal Engine Schweiz,52,https://www.meetup.com/Unreal-Engine-Schweiz/
+40,21644552,Agile Breakfast Zürich von swissICT,768,https://www.meetup.com/Agile-Breakfast-Zurich/
+41,21870494,Friends of Ambitorio,41,https://www.meetup.com/Friends-of-Ambitorio/
+42,22191076,Lean Change Management Meetup,342,https://www.meetup.com/Zurich-Lean-Change-Management-Meetup/
+43,23123972,Cloud Native Computing Switzerland,1123,https://www.meetup.com/Cloud-Native-Computing-Switzerland/
+44,23242196,AnalyticsCamp Switzerland,494,https://www.meetup.com/analyticscampch/
+45,23400690,Natural Language Processing - Zurich,1039,https://www.meetup.com/NLP-Zurich/
+46,23965165,Customer Success Association Switzerland Austausch,113,https://www.meetup.com/Zurich-Customer-Success-Austausch/
+47,24329787,Liberating Structures User Group Bern,175,https://www.meetup.com/Liberating-Structures-User-Group-Schweiz/
 48,25127930,ICT Schweiz,82,https://www.meetup.com/ICT-Schweiz/
-49,25405406,Crypto Summit,935,https://www.meetup.com/CryptoSummit/
-50,25868301,Cryptowelt im Grossraum Zürich,430,https://www.meetup.com/cryptowelt/
-51,26051944,Women Techmakers Switzerland,956,https://www.meetup.com/wtm-switzerland/
-52,26357880,Azure Blockchain Zürich,855,https://www.meetup.com/Azure-Blockchain-Zurich/
-53,26679845,Ionic Zürich,181,https://www.meetup.com/Ionic-Zurich/
-54,27090394,MAMA - Multichain Asset Managers Association,216,https://www.meetup.com/meetup-group-MxIAcYAu/
-55,27120674,Zürich Progressive Web App Meetup,99,https://www.meetup.com/Zurich-Progressive-Web-App-Meetup/
-56,27132126,Crypto Valley Entrepreneurs,465,https://www.meetup.com/Crypto-Valley-Entrepreneurs/
-57,27133049,Zürich Business Agility Meetup,270,https://www.meetup.com/Zurich-Business-Agility-Meetup/
-58,27342970,CV Labs - Switzerland,1844,https://www.meetup.com/CV-Labs-Switzerland/
-59,27701779,SMART VALOR Community,56,https://www.meetup.com/SMART-VALOR/
-60,27879127,Crypto World Zug Association,442,https://www.meetup.com/Crypto-World-Zug/
-61,27983448,<vue-zurich/>,205,https://www.meetup.com/vue_zurich/
-62,28258734,GigBuzz Zürich,219,https://www.meetup.com/GigBuzz-Zurich/
-63,28264920,Code4Fun,423,https://www.meetup.com/Code4Fun/
-64,28411105,Trust Square - Blockchain Swiss Made,213,https://www.meetup.com/Trust-Square-Blockchain-Swiss-Made/
-65,28518699,Swiss Oracle Cloud Community,62,https://www.meetup.com/Swiss-Oracle-Cloud-Community/
-66,28528700,Future of Data: Zürich,273,https://www.meetup.com/futureofdata-zurich/
-67,28667740,Salesforce Users (by start-cons),71,https://www.meetup.com/Salesforce-User/
-68,29454575,Azure Professional Workgroup,65,https://www.meetup.com/Azure-Professional-Workgroup/
-69,29585304,New Ways Of Working,92,https://www.meetup.com/New-Ways-Of-Working/
-70,29587643,Zürich HashiCorp User Group,230,https://www.meetup.com/Zurich-HashiCorp-User-Group/
-71,29850772,Quant People in Zurich,148,https://www.meetup.com/Quant-People-in-Zurich/
-72,29942974,Zürich School of AI,345,https://www.meetup.com/School-of-AI-Zurich/
-73,30385620,Westhive Innovation Ecosystem,139,https://www.meetup.com/Westhive-Innovation-Ecosystem/
-74,30425212,Software Architecture and Project Design Zurich,374,https://www.meetup.com/Software-Architecture-and-Project-Design-Zurich/
-75,30490660,"agile Mindset, Zürich",124,https://www.meetup.com/agile-Mindset-Zurich/
-76,30507802,AI for Intelligent Cloud Zürich,208,https://www.meetup.com/AI-for-Intelligent-Cloud-Zurich/
-77,30538328,Voice Meetup Switzerland,247,https://www.meetup.com/Zurich-Voice-Meetup/
-78,30876143,"WoSEC Zürich: Women of Security (Zürich, Switzerland)",47,https://www.meetup.com/WIST-Women-in-Security-and-Tech-Zurich/
-79,30954940,Business Process Management & Automation Switzerland,125,https://www.meetup.com/Business-Process-Management-Automation/
-80,31056273,SAP Customer Experience Switzerland,75,https://www.meetup.com/SAP-Customer-Experience-Switzerland/
-81,31150209,Deep Learning Zurich (DLZH),415,https://www.meetup.com/Deep-Learning-Zurich-DLZH/
-82,31210267,Y7K Bistro,154,https://www.meetup.com/Y7K-Bistro/
-83,31219627,Zürich Blockchain Open Coffee,194,https://www.meetup.com/Zurich-Blockchain-Open-Coffee/
-84,31270353,"Oyoba, Let's Build the Banking of the Future, Together",82,https://www.meetup.com/Oyoba-building-the-future-of-banking-together/
-85,31303696,Robotics and ROS in Zurich,222,https://www.meetup.com/Robotics-and-ROS-in-Zurich/
-86,31320365,Trans4mation SWISS AG Networking,19,https://www.meetup.com/Trans4mation-SWISS-AG-Networking/
-87,31761969,Swiss Cloud Security Alliance (CSA) Chapter - Zürich area,64,https://www.meetup.com/Cloud-Security-Alliance-CSA-Chapter/
-88,31838175,Data Visualization Zürich,248,https://www.meetup.com/datavis-zurich/
-89,31900931,UX ROI Zürich,25,https://www.meetup.com/UX-ROI-Zurich/
-90,31912928,Zürich UX Research Guild,65,https://www.meetup.com/zurich-ux-research-guild/
-91,31946434,Agile Baden (CH),25,https://www.meetup.com/Agile-Baden-CH/
-92,32010407,Software Artisans,58,https://www.meetup.com/Software-Artisans/
-93,32098343,CryptoMonday | Blockchain Zurich,45,https://www.meetup.com/CryptoMonday-Blockchain-Zurich/
+49,25405406,Crypto Summit,934,https://www.meetup.com/CryptoSummit/
+50,25517536,women++: tech and career dev workshops,362,https://www.meetup.com/womenplusplus/
+51,25868301,Cryptowelt im Grossraum Zürich,430,https://www.meetup.com/cryptowelt/
+52,26357880,Azure Blockchain Zürich,859,https://www.meetup.com/Azure-Blockchain-Zurich/
+53,27090394,MAMA - Multichain Asset Managers Association,216,https://www.meetup.com/meetup-group-MxIAcYAu/
+54,27120674,Zürich Progressive Web App Meetup,99,https://www.meetup.com/Zurich-Progressive-Web-App-Meetup/
+55,27133049,Zürich Business Agility Meetup,272,https://www.meetup.com/Zurich-Business-Agility-Meetup/
+56,27342970,CV Labs - Switzerland,1854,https://www.meetup.com/CV-Labs-Switzerland/
+57,27701779,SMART VALOR Community,57,https://www.meetup.com/SMART-VALOR/
+58,27879127,Crypto World Zug Association,444,https://www.meetup.com/Crypto-World-Zug/
+59,27942126,Embedded GNU/Linux Developer,137,https://www.meetup.com/Embedded-GNU-Linux-Developer/
+60,27983448,<vue-zurich/>,205,https://www.meetup.com/vue_zurich/
+61,28258734,GigBuzz Zürich,219,https://www.meetup.com/GigBuzz-Zurich/
+62,28264920,Code4Fun,439,https://www.meetup.com/Code4Fun/
+63,28411105,Trust Square - Blockchain Swiss Made,219,https://www.meetup.com/Trust-Square-Blockchain-Swiss-Made/
+64,28518699,Swiss Oracle Cloud Community,62,https://www.meetup.com/Swiss-Oracle-Cloud-Community/
+65,28528700,Future of Data: Zürich,274,https://www.meetup.com/futureofdata-zurich/
+66,28667740,Salesforce Users (by start-cons),72,https://www.meetup.com/Salesforce-User/
+67,29454575,Azure Professional Workgroup,71,https://www.meetup.com/Azure-Professional-Workgroup/
+68,29585304,New Ways Of Working,93,https://www.meetup.com/New-Ways-Of-Working/
+69,29850772,Quant People in Zurich,148,https://www.meetup.com/Quant-People-in-Zurich/
+70,29942974,Zürich School of AI,350,https://www.meetup.com/School-of-AI-Zurich/
+71,30385620,Westhive Innovation Ecosystem,141,https://www.meetup.com/Westhive-Innovation-Ecosystem/
+72,30425212,Software Architecture and Project Design Zurich,376,https://www.meetup.com/Software-Architecture-and-Project-Design-Zurich/
+73,30490660,"agile Mindset, Zürich",127,https://www.meetup.com/agile-Mindset-Zurich/
+74,30507802,AI for Intelligent Cloud Zürich,213,https://www.meetup.com/AI-for-Intelligent-Cloud-Zurich/
+75,30538328,Voice Meetup Switzerland,248,https://www.meetup.com/Zurich-Voice-Meetup/
+76,30876143,"WoSEC Zürich: Women of Security (Zürich, Switzerland)",46,https://www.meetup.com/WIST-Women-in-Security-and-Tech-Zurich/
+77,30954940,Business Process Management & Automation Switzerland,126,https://www.meetup.com/Business-Process-Management-Automation/
+78,31056273,SAP Customer Experience Switzerland,75,https://www.meetup.com/SAP-Customer-Experience-Switzerland/
+79,31150209,Deep Learning Zurich (DLZH),429,https://www.meetup.com/Deep-Learning-Zurich-DLZH/
+80,31219627,Zürich Blockchain Open Coffee,199,https://www.meetup.com/Zurich-Blockchain-Open-Coffee/
+81,31270353,"Oyoba, Let's Build the Banking of the Future, Together",86,https://www.meetup.com/Oyoba-building-the-future-of-banking-together/
+82,31303696,Robotics and ROS in Zurich,227,https://www.meetup.com/Robotics-and-ROS-in-Zurich/
+83,31320365,Trans4mation SWISS AG Networking,19,https://www.meetup.com/Trans4mation-SWISS-AG-Networking/
+84,31761969,Swiss Cloud Security Alliance (CSA) Chapter - Zürich area,65,https://www.meetup.com/Cloud-Security-Alliance-CSA-Chapter/
+85,31838175,Data Visualization Zürich,254,https://www.meetup.com/datavis-zurich/
+86,31900931,UX ROI Zürich,34,https://www.meetup.com/UX-ROI-Zurich/
+87,31946434,Agile Baden (CH),25,https://www.meetup.com/Agile-Baden-CH/
+88,32010407,Software Artisans,61,https://www.meetup.com/Software-Artisans/
+89,32098343,CryptoMonday | Blockchain Zurich,51,https://www.meetup.com/CryptoMonday-Blockchain-Zurich/
+90,32140009,Elementor Zürich,11,https://www.meetup.com/Zurich-Elementor/
+91,32149848,Framer Zurich,19,https://www.meetup.com/meetup-group-ohTCAajV/
