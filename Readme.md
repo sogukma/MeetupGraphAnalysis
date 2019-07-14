@@ -6,7 +6,7 @@
 - **all CSV files with gathered data**
 - **graphCreation.ipynb:** Creates graph databases in neo4j using the data from the created CSV files about groups, events and RSVPs (currently it only works on localhost)
 - **QueryingTrends.ipynb:**: Brings new insights into current trends regarding localities, topics and events.
-- **QueryingOracleGroups.ipynb:** Brings new insights into Oracle's groups regarding localities, topics and events.
+- **Behaviour analysis of People and Groups.ipynb:** Behavioural analyses of groups and people are carried out here. Thereby among other things competitors are recognized.
 - **CommandCentral.ipynb:** Has Cypher-querys for the administration of the database.
 - **CollectionCreationQueryingVenues.ipynb:** For the venues, fetches data, creates and queries graph database (is being tested).
 
