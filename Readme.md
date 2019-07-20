@@ -1,5 +1,5 @@
 # Meetup Graph Analysis
-## This is the project folder of the graph analysis about the Meetup network, which Malik performs as part of his bachelor thesis.
+## This is the technical documentation of the graph analysis about the Meetup network, which Malik performs as part of his bachelor thesis.
 
 **Currently, the following files are included:**
 - **Data Collection.ipynb:** Gathers, filters new data about groups, events and RSVPs and transfers them to CSV files.
@@ -38,7 +38,7 @@
 5. Now you will be prompted to change your password. Change it to **"1"**.
 6. Now go back to the Jupyter notebook and open the file **Graph Creation.ipynb**. Follow the instructions there to create the graph database.
 7. Now you are able to perform analyses with the tool. For this you can use the Jupyter files **Behaviour analysis of People and Groups.ipynb** and **Querying Trends.ipynb**.
-
+### Note: All necessary drivers for Jupyter Notebook and neo4j are already pre-installed.
 
 ## Next steps
 If Jupyter Notebook and neo4j have been successfully installed, they can be used for the analysis. Among other things, the following additional actions can be performed on them:
