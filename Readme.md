@@ -19,7 +19,7 @@
 1.	Get Jupyter Notebook from DockerHub 
 - Jupyter Notebook: **docker pull sogukma/meetup_analysis:meetup_jupyter**
 2.	Run Jupyter Notebook with the following command
-- **docker run --name jupyter –p 8888:8888 –v ~/notebooks:/home/jovyan sogukma/meetup_analysis:meetup_jupyter**
+- **docker run --name jupyter -p 8888:8888 -v ~/notebooks:/home/jovyan sogukma/meetup_analysis:meetup_jupyter**
 - This will also create a "notebooks" folder in your computer's main directory.
 3.	Download the ZIP file with the Jupyter Notebook files of this project:
 - Link: **https://github.com/sogukma/MeetupGraphAnalysis**
