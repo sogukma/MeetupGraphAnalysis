@@ -45,7 +45,7 @@
   - **Neo4j: docker pull discsports/neo4j-apoc**
 2.	Run neo4j with the following command
   ~~~~
-  docker run –p 7474:7474 –p 7687:7687 --name neo4j-apoc --env=NEO4J_ACCEPT_LICENSE_AGREEMENT=yes discsports/neo4j-apoc
+  docker run -p 7474:7474 -p 7687:7687 --name {container_name} --env=NEO4J_ACCEPT_LICENSE_AGREEMENT=yes discsports/neo4j-apoc
   ~~~~
 3. Enter the link **http://192.168.99.100:7474/browser/** in your browser.
 4. Enter the initial credentials
