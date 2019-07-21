@@ -39,6 +39,7 @@
   ~~~~
   docker exec {container_name} jupyter nbextensions_configurator enable --user
   ~~~~
+ - Then go to **192.168.99.100:8888/nbextensions** in your browser and activate **"codefolding"** there.
 ### Run neo4j on Docker:
 1.	Get neo4j (with APOC) from DockerHub 
   - **Neo4j: docker pull discsports/neo4j-apoc**
