@@ -1,5 +1,5 @@
 # Meetup Graph Analysis
-## This is the technical documentation of the graph analysis about the Meetup network, which Malik performs as part of his bachelor thesis.
+## This is the technical documentation that helps to set up the Meetup graph analysis tool, which Malik developed as part of his Bachelor thesis.
 
 **Currently, the following files are included:**
 - **Data Collection.ipynb:** Gathers, filters new data about groups, events and RSVPs and transfers them to CSV files.
