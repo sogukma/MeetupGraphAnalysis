@@ -3,10 +3,10 @@
 
 **Currently, the following files are included:**
 - **Data Collection.ipynb:** Gathers, filters new data about groups, events and RSVPs and transfers them to CSV files.
-- **Graph Creation.ipynb:** Creates graph databases in neo4j using the data from the created CSV files about groups, events and RSVPs
-- **Querying Trends.ipynb:**: Brings new insights into current trends regarding localitions, topics and events.
-- **Behaviour analysis of People and Groups.ipynb:** Behavioural analyses of groups and people are carried out here. Thereby among other things competitors are recognized.
-- **Command Central.ipynb:** Has Cypher-querys for the administration of the database.
+- **Graph Creation.ipynb:** Creates graph databases in neo4j using the data from the created CSV files about groups, events and RSVPs.
+- **Querying Trends.ipynb:** Brings new insights into current trends in terms of locations, topics and events.
+- **Behaviour analysis of People and Groups.ipynb:** Behavioural analyses of groups and people are carried out here. In doing so, among other things competitors are recognized.
+- **Command Central.ipynb:** Has Cypher-queries for the administration of the database.
 - **all CSV files with gathered data**
 
 ## System components
@@ -41,8 +41,10 @@
   ~~~~
  - Then go to **192.168.99.100:8888/nbextensions** in your browser and activate **"codefolding"** there.
 ### Run neo4j on Docker:
-1.	Get neo4j (with APOC) from DockerHub 
-  - **Neo4j: docker pull discsports/neo4j-apoc**
+1.	Get neo4j (with APOC) from DockerHub
+  ~~~~
+  docker pull discsports/neo4j-apoc
+  ~~~~
 2.	Run neo4j with the following command
   ~~~~
   docker run -p 7474:7474 -p 7687:7687 --name {container_name} --env=NEO4J_ACCEPT_LICENSE_AGREEMENT=yes discsports/neo4j-apoc
@@ -59,6 +61,6 @@
 
 ## Next steps
 If Jupyter Notebook and neo4j have been successfully installed, they can be used for the analysis. Among other things, the following additional actions can be performed on them:
-1. Start **DataCollection.ipynb** and follow the instructions step by step. This will create new CSV files based on new data on your local storage.
+1. Start **DataCollection.ipynb** and follow the instructions step by step. This will create new CSV files on your local storage based on new data.
 2. Start **GraphCreation.ipynb** and follow the instructions step by step. This will create a graph database from the previously created CSV files.
 3. Now you are able to perform analyses with the tool. For this you can use the Jupyter files **Behaviour analysis of People and Groups.ipynb** and **Querying Trends.ipynb**.
